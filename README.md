@@ -11,8 +11,9 @@ Object Relational Mapper (ORM): Doctrine
 
 
 <ul>
-  <li>Microsoft</li>
-  <li>Google</li>
-  <li>Apple</li>
-  <li>IBM</li>
+  <li>A simple CRUD App With Symfony 5 </li>
+  <li>Symfony version: 5</li>
+  <li>Symfony skeleton: symfony/skeleton</li>
+  <li>Template engine: Twig</li>
+  <li>Object Relational Mapper (ORM): Doctrine</li>
 </ul>
