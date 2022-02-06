@@ -17,3 +17,4 @@ php bin/console doctrine:database:create
 php bin/console doctrine:migrations:migrate
 
 # Create host and Check on browser
+
