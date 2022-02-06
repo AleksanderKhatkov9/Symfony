@@ -18,3 +18,6 @@ php bin/console doctrine:migrations:migrate
 
 # Create host and Check on browser
 
+
+![image](https://user-images.githubusercontent.com/74569011/152699886-31529597-81ca-4fe9-8c05-2d43334cf4e1.png)
+
